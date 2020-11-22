@@ -1,0 +1,6 @@
+
+.chat-item{
+	padding-left: 20rpx;
+	padding-right: 20rpx;
+}
+

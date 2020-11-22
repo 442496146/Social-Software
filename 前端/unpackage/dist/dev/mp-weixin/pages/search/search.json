@@ -1,0 +1,10 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "user-list": "/components/user-list/user-list",
+    "index-list": "/components/index/index-list",
+    "no-thing": "/components/common/no-thing",
+    "load-more": "/components/common/load-more",
+    "topic-list": "/components/news/topic-list"
+  }
+}

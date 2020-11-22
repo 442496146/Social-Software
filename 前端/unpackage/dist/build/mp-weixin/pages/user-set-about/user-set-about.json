@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "关于Univ星球",
+  "usingComponents": {
+    "home-list-item": "/components/home/home-list-item"
+  }
+}
